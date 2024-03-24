@@ -28,9 +28,9 @@ const items = [
   {
     id: 4,
     title: "Construction",
-    img: "https://master--construuuction.netlify.app/",
+    img: "https://previews.123rf.com/images/madmaxer/madmaxer1605/madmaxer160500050/57865448-illustration-3d-du-concept-de-construction-de-b%C3%A2timent.jpg",
     desc: "I've developed a comprehensive showcase website specializing in construction, building, and renovation services, leveraging the power and versatility of React for a dynamic and engaging user experience.",
-    demoLink: "https://construction-otj11s1qv-aimads-projects-227c9a77.vercel.app/"
+    demoLink: "https://master--construuuction.netlify.app/"
   },
   {
     id: 5,
