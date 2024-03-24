@@ -60,9 +60,9 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Design</h2>
+          <h2>Backend Development</h2>
           <p>
-            Création d'interfaces utilisateur intuitives et esthétiques pour une expérience utilisateur optimale.
+            Development and optimization of server-side functionalities of web applications to ensure maximum performance and reliability.
           </p>
           
         </motion.div>
@@ -70,9 +70,9 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Development</h2>
+          <h2>Frontend Development</h2>
           <p>
-            Développement de sites web dynamiques et performants en utilisant les dernières technologies.
+            Creating interactive and appealing user interfaces to deliver intuitive and aesthetic web experiences.
           </p>
           
         </motion.div>
@@ -82,7 +82,7 @@ const Services = () => {
         >
           <h2>Optimization</h2>
           <p>
-            Optimisation des performances et de la vitesse pour une expérience de navigation fluide.
+          Optimizing performance and speed for a seamless browsing experience.
           </p>
           
         </motion.div>
@@ -92,7 +92,7 @@ const Services = () => {
         >
           <h2>Maintenance</h2>
           <p>
-            Maintenance continue et mise à jour des sites web pour assurer leur bon fonctionnement.
+          Continuous maintenance and updating of websites to ensure their proper functioning.
           </p>
           
         </motion.div>

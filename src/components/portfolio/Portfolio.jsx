@@ -27,6 +27,13 @@ const items = [
   },
   {
     id: 4,
+    title: "Construction",
+    img: "https://master--construuuction.netlify.app/",
+    desc: "I've developed a comprehensive showcase website specializing in construction, building, and renovation services, leveraging the power and versatility of React for a dynamic and engaging user experience.",
+    demoLink: "https://construction-otj11s1qv-aimads-projects-227c9a77.vercel.app/"
+  },
+  {
+    id: 5,
     title: "Social Media",
     img: "https://insights.som.yale.edu/sites/default/files/styles/max_2600x2600/public/2021-06/210606_AddictiveSocialMedia_FINAL_0.png?itok=Eiw5yNzF",
     desc: "Developed a vibrant social media platform using React and Node.js, enabling users to connect and share content effortlessly. The platform features user profiles, customizable news feeds, and robust content sharing capabilities, fostering engaging interactions and community building.",
